@@ -1,0 +1,14 @@
+C:\Users\M S I\source\repos\Kuis1_Dimas Rifqi\Kuis1_Dimas Rifqi\bin\Debug\net8.0\Kuis1_Dimas Rifqi.exe
+C:\Users\M S I\source\repos\Kuis1_Dimas Rifqi\Kuis1_Dimas Rifqi\bin\Debug\net8.0\Kuis1_Dimas Rifqi.deps.json
+C:\Users\M S I\source\repos\Kuis1_Dimas Rifqi\Kuis1_Dimas Rifqi\bin\Debug\net8.0\Kuis1_Dimas Rifqi.runtimeconfig.json
+C:\Users\M S I\source\repos\Kuis1_Dimas Rifqi\Kuis1_Dimas Rifqi\bin\Debug\net8.0\Kuis1_Dimas Rifqi.dll
+C:\Users\M S I\source\repos\Kuis1_Dimas Rifqi\Kuis1_Dimas Rifqi\bin\Debug\net8.0\Kuis1_Dimas Rifqi.pdb
+C:\Users\M S I\source\repos\Kuis1_Dimas Rifqi\Kuis1_Dimas Rifqi\obj\Debug\net8.0\Kuis1_Dimas Rifqi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M S I\source\repos\Kuis1_Dimas Rifqi\Kuis1_Dimas Rifqi\obj\Debug\net8.0\Kuis1_Dimas Rifqi.AssemblyInfoInputs.cache
+C:\Users\M S I\source\repos\Kuis1_Dimas Rifqi\Kuis1_Dimas Rifqi\obj\Debug\net8.0\Kuis1_Dimas Rifqi.AssemblyInfo.cs
+C:\Users\M S I\source\repos\Kuis1_Dimas Rifqi\Kuis1_Dimas Rifqi\obj\Debug\net8.0\Kuis1_Dimas Rifqi.csproj.CoreCompileInputs.cache
+C:\Users\M S I\source\repos\Kuis1_Dimas Rifqi\Kuis1_Dimas Rifqi\obj\Debug\net8.0\Kuis1_Dimas Rifqi.dll
+C:\Users\M S I\source\repos\Kuis1_Dimas Rifqi\Kuis1_Dimas Rifqi\obj\Debug\net8.0\refint\Kuis1_Dimas Rifqi.dll
+C:\Users\M S I\source\repos\Kuis1_Dimas Rifqi\Kuis1_Dimas Rifqi\obj\Debug\net8.0\Kuis1_Dimas Rifqi.pdb
+C:\Users\M S I\source\repos\Kuis1_Dimas Rifqi\Kuis1_Dimas Rifqi\obj\Debug\net8.0\Kuis1_Dimas Rifqi.genruntimeconfig.cache
+C:\Users\M S I\source\repos\Kuis1_Dimas Rifqi\Kuis1_Dimas Rifqi\obj\Debug\net8.0\ref\Kuis1_Dimas Rifqi.dll
